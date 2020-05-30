@@ -1,0 +1,44 @@
+alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10001; rev:1;)
+
+alert tcp any any -> any 80 (msg:"kostat.go.kr access"; content:"GET /"; content:"Host: "; content:"kostat.go.kr"; sid:10002; rev:1;)
+
+alert tcp any any -> any 80 (msg:"bai.go.kr access"; content:"GET /"; content:"Host: "; content:"bai.go.kr"; sid:10003; rev:1;)
+
+alert tcp any any -> any 80 (msg:"spo.go.kr access"; content:"GET /"; content:"Host: "; content:"spo.go.kr"; sid:10004; rev:1;)
+
+alert tcp any any -> any 80 (msg:"wonju.go.kr access"; content:"GET /"; content:"Host: "; content:"wonju.go.kr"; sid:10005; rev:1;)
+
+alert tcp any any -> any 80 (msg:"seoul.go.kr access"; content:"GET /"; content:"Host: "; content:"seoul.go.kr"; sid:10006; rev:1;)
+
+alert tcp any any -> any 80 (msg:"www.spatic.go.kr access"; content:"GET /"; content:"Host: "; content:"www.spatic.go.kr"; sid:10007; rev:1;)
+
+alert tcp any any -> any 80 (msg:"busan.go.kr access"; content:"GET /"; content:"Host: "; content:"busan.go.kr"; sid:10008; rev:1;)
+
+alert tcp any any -> any 80 (msg:"yeosu.go.kr access"; content:"GET /"; content:"Host: "; content:"yeosu.go.kr"; sid:10009; rev:1;)
+
+alert tcp any any -> any 80 (msg:"sa.nexon.com access"; content:"GET /"; content:"Host: "; content:"sa.nexon.com"; sid:10010; rev:1;)
+
+#############################################################################################################################################
+
+alert tcp any any -> any 443 (msg:"pubg.game.daum.net access"; flow:from_client, established; tls_sni; content:"pubg.game.daum.net"; sid:10011; rev:1;)
+
+alert tcp any any -> any 443 (msg:"www.nexon.com access"; flow:from_client, established; tls_sni; content:"www.nexon.com"; sid:10012; rev:1;)
+
+alert tcp any any -> any 443 (msg:"www.gg.go.kr access"; flow:from_client, established; tls_sni; content:"www.gg.go.kr"; sid:10013; rev:1;)
+
+alert tcp any any -> any 443 (msg:"www.joongbu.ac.kr access"; flow:from_client, established; tls_sni; content:"www.joongbu.ac.kr"; sid:10014; rev:1;)
+
+alert tcp any any -> any 443 (msg:"www.hyundai.com access"; flow:from_client, established; tls_sni; content:"www.hyundai.com"; sid:10015; rev:1;)
+
+alert tcp any any -> any 443 (msg:"github.com access"; flow:from_client, established; tls_sni; content:"github.com"; sid:10016; rev:1;)
+
+alert tcp any any -> any 443 (msg:"www.naver.com access"; flow:from_client, established; tls_sni; content:"www.naver.com"; sid:10017; rev:1;)
+
+alert tcp any any -> any 443 (msg:"papago.naver.com access"; flow:from_client, established; tls_sni; content:"papago.naver.com"; sid:10018; rev:1;)
+
+alert tcp any any -> any 443 (msg:"www.daum.net access"; flow:from_client, established; tls_sni; content:"www.daum.net"; sid:10019; rev:1;)
+
+alert tcp any any -> any 443 (msg:"www.youtube.com access"; flow:from_client, established; tls_sni; content:"www.youtube.com"; sid:10020; rev:1;)
+
+
+

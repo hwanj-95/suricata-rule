@@ -1,0 +1,619 @@
+05/30/2020-05:53:11.823470  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:37320 -> 175.213.35.39:80
+05/30/2020-05:53:11.889033  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:37320 -> 175.213.35.39:80
+05/30/2020-05:53:30.082073  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:37324 -> 175.213.35.39:80
+05/30/2020-05:53:30.143849  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:37324 -> 175.213.35.39:80
+05/30/2020-07:33:45.640834  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50294 -> 125.60.43.187:80
+05/30/2020-07:33:46.626038  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50294 -> 125.60.43.187:80
+05/30/2020-07:33:46.662428  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50296 -> 125.60.43.187:80
+05/30/2020-07:33:46.711726  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50296 -> 125.60.43.187:80
+05/30/2020-07:33:46.723952  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:46.725070  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:46.727598  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50298 -> 125.60.43.187:80
+05/30/2020-07:33:46.731571  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:33:46.756178  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:46.764436  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50294 -> 125.60.43.187:80
+05/30/2020-07:33:46.780473  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:46.794812  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50294 -> 125.60.43.187:80
+05/30/2020-07:33:46.800715  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:46.822625  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:46.833337  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:33:46.833423  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50296 -> 125.60.43.187:80
+05/30/2020-07:33:46.847089  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50298 -> 125.60.43.187:80
+05/30/2020-07:33:46.854403  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50296 -> 125.60.43.187:80
+05/30/2020-07:33:46.856111  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:46.857196  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:33:46.858005  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:46.859548  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50294 -> 125.60.43.187:80
+05/30/2020-07:33:46.927496  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50294 -> 125.60.43.187:80
+05/30/2020-07:33:46.935407  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:33:46.953297  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:46.962612  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50296 -> 125.60.43.187:80
+05/30/2020-07:33:46.962733  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:46.962733  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:46.963835  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:50298 -> 125.60.43.187:80
+05/30/2020-07:33:46.963835  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50298 -> 125.60.43.187:80
+05/30/2020-07:33:46.994673  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:46.994673  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:47.051985  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:47.090731  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50294 -> 125.60.43.187:80
+05/30/2020-07:33:47.092011  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:47.094744  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50298 -> 125.60.43.187:80
+05/30/2020-07:33:47.102349  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50302 -> 125.60.43.187:80
+05/30/2020-07:33:47.107721  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50296 -> 125.60.43.187:80
+05/30/2020-07:33:47.121764  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:33:47.138894  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50304 -> 125.60.43.187:80
+05/30/2020-07:33:47.141564  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50298 -> 125.60.43.187:80
+05/30/2020-07:33:47.149247  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:33:47.220188  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:33:47.241355  [**] [1:10002:2] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:50300 -> 125.60.43.187:80
+05/30/2020-07:44:20.600412  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47954 -> 116.67.81.21:80
+05/30/2020-07:44:34.761433  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47960 -> 116.67.81.21:80
+05/30/2020-07:44:34.804966  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47962 -> 116.67.81.21:80
+05/30/2020-07:44:35.173639  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47962 -> 116.67.81.21:80
+05/30/2020-08:23:46.533809  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47982 -> 116.67.81.21:80
+05/30/2020-08:23:46.579727  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47986 -> 116.67.81.21:80
+05/30/2020-08:23:46.984118  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47986 -> 116.67.81.21:80
+05/30/2020-08:24:07.085013  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38598 -> 115.84.166.115:80
+05/30/2020-08:24:07.904606  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:38606 -> 115.84.166.115:80
+05/30/2020-08:30:38.860776  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:38.935110  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:38.979052  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.014011  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.038937  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:39.041332  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.047772  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.051832  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:39.056530  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:39.065003  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.072758  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:39.090745  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:39.103575  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.117970  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.133159  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:39.147759  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.172481  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.177516  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.232689  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.248611  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:39.250542  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:39.262600  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.276155  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.306089  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:39.328463  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.341704  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.349338  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.365994  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:39.381877  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.462064  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.462064  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.466667  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:39.505344  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:39.523869  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.558543  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.581530  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:39.696539  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:39.711235  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:39.753463  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.814531  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.823470  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.844186  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:39.880863  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.884596  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.937556  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.938672  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.946081  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:39.948739  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:33834 -> 115.84.164.13:80
+05/30/2020-08:30:39.966308  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:39.973723  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:39.974206  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:40.001211  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:40.019321  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:40.052235  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:40.187804  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:40.239328  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:40.297606  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:40.356765  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:40.396100  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:40.420007  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:40.519187  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:40.564448  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:40.609353  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:40.614985  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:40.677873  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:40.708078  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:40.733470  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:40.798673  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:40.843795  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:40.920306  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:40.964102  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:40.993423  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:41.170592  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.196742  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:41.206787  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.234739  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:41.283194  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:41.289897  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.303131  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:41.314616  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:41.331333  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.353106  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:41.370248  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.386946  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:41.407738  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:41.414481  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.428394  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.446902  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:41.455390  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:41.475015  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:41.486369  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:41.496203  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.506421  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.541329  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:41.557738  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:41.564676  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:41.576418  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:41.584180  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.597006  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.599667  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:41.609695  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:41.614578  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:41.621435  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.622142  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.622934  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:41.648431  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:41.649149  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38652 -> 115.84.166.115:80
+05/30/2020-08:30:41.649728  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.651069  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38658 -> 115.84.166.115:80
+05/30/2020-08:30:41.652337  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38662 -> 115.84.166.115:80
+05/30/2020-08:30:41.655831  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.665148  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38660 -> 115.84.166.115:80
+05/30/2020-08:30:41.673121  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38650 -> 115.84.166.115:80
+05/30/2020-08:30:41.677884  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.705240  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38656 -> 115.84.166.115:80
+05/30/2020-08:30:41.709534  [wDrop] [**] [1:1006:1] seoul.go.kr drop [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:43436 -> 115.84.164.39:80
+05/30/2020-08:41:53.630988  [**] [1:2029622:1] ET POLICY External IP Lookup (ipify .org) [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.0.103:51882 -> 54.221.234.156:80
+05/30/2020-09:31:17.850082  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57606 -> 39.115.2.228:443
+05/30/2020-09:31:17.874753  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57608 -> 39.115.2.228:443
+05/30/2020-09:31:17.915997  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57610 -> 39.115.2.228:443
+05/30/2020-09:31:18.002900  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57612 -> 39.115.2.228:443
+05/30/2020-09:31:18.017400  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57614 -> 39.115.2.228:443
+05/30/2020-09:31:18.027522  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57616 -> 39.115.2.228:443
+05/30/2020-09:31:18.029252  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57620 -> 39.115.2.228:443
+05/30/2020-09:31:18.035016  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57618 -> 39.115.2.228:443
+05/30/2020-09:31:18.060226  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57630 -> 39.115.2.228:443
+05/30/2020-09:31:18.114471  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57632 -> 39.115.2.228:443
+05/30/2020-09:31:18.171724  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57634 -> 39.115.2.228:443
+05/30/2020-09:31:18.186843  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57636 -> 39.115.2.228:443
+05/30/2020-09:31:18.229862  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57640 -> 39.115.2.228:443
+05/30/2020-09:31:18.230029  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57638 -> 39.115.2.228:443
+05/30/2020-09:31:18.230437  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57642 -> 39.115.2.228:443
+05/30/2020-09:31:18.523306  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57646 -> 39.115.2.228:443
+05/30/2020-09:31:18.531861  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57648 -> 39.115.2.228:443
+05/30/2020-09:31:18.532056  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57650 -> 39.115.2.228:443
+05/30/2020-09:31:18.679818  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57658 -> 39.115.2.228:443
+05/30/2020-09:31:18.706450  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57660 -> 39.115.2.228:443
+05/30/2020-09:31:18.747292  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57662 -> 39.115.2.228:443
+05/30/2020-09:31:18.938993  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57672 -> 39.115.2.228:443
+05/30/2020-09:31:18.939162  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57670 -> 39.115.2.228:443
+05/30/2020-09:31:19.018535  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36028 -> 39.115.2.229:443
+05/30/2020-09:31:19.019788  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36030 -> 39.115.2.229:443
+05/30/2020-09:31:19.020954  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36032 -> 39.115.2.229:443
+05/30/2020-09:31:19.022483  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36034 -> 39.115.2.229:443
+05/30/2020-09:31:19.046444  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57684 -> 39.115.2.228:443
+05/30/2020-09:31:19.099063  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57688 -> 39.115.2.228:443
+05/30/2020-09:31:19.130954  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57690 -> 39.115.2.228:443
+05/30/2020-09:31:19.177882  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57692 -> 39.115.2.228:443
+05/30/2020-09:31:19.278952  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57694 -> 39.115.2.228:443
+05/30/2020-09:40:09.490262  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.0.103:58354 -> 210.125.239.51:443
+05/30/2020-09:44:42.552082  [**] [1:10012:1] www.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49836 -> 13.209.215.214:443
+05/30/2020-09:44:54.394969  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47506 -> 27.101.137.129:443
+05/30/2020-09:44:54.693680  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47514 -> 27.101.137.129:443
+05/30/2020-09:44:54.702166  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47508 -> 27.101.137.129:443
+05/30/2020-09:44:54.702335  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47510 -> 27.101.137.129:443
+05/30/2020-09:44:54.702481  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47516 -> 27.101.137.129:443
+05/30/2020-09:44:54.702705  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47512 -> 27.101.137.129:443
+05/30/2020-09:45:02.040374  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58440 -> 210.125.239.51:443
+05/30/2020-09:45:02.040201  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58442 -> 210.125.239.51:443
+05/30/2020-09:45:02.607423  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58444 -> 210.125.239.51:443
+05/30/2020-09:45:02.611358  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58446 -> 210.125.239.51:443
+05/30/2020-09:45:02.611474  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58450 -> 210.125.239.51:443
+05/30/2020-09:45:02.611694  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58448 -> 210.125.239.51:443
+05/30/2020-09:45:08.974570  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55476 -> 104.74.209.7:443
+05/30/2020-09:45:09.627109  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55480 -> 104.74.209.7:443
+05/30/2020-09:45:09.627193  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55478 -> 104.74.209.7:443
+05/30/2020-09:45:09.627935  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55482 -> 104.74.209.7:443
+05/30/2020-09:45:09.627684  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55484 -> 104.74.209.7:443
+05/30/2020-09:45:10.049457  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55490 -> 104.74.209.7:443
+05/30/2020-09:45:31.621741  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57926 -> 39.115.2.228:443
+05/30/2020-09:45:31.660721  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57928 -> 39.115.2.228:443
+05/30/2020-09:45:31.716732  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57930 -> 39.115.2.228:443
+05/30/2020-09:45:32.402688  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36296 -> 39.115.2.229:443
+05/30/2020-09:45:32.402922  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36298 -> 39.115.2.229:443
+05/30/2020-09:45:32.403107  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36302 -> 39.115.2.229:443
+05/30/2020-09:45:32.403052  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36300 -> 39.115.2.229:443
+05/30/2020-09:52:25.913933  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:54710 -> 15.164.81.167:443
+05/30/2020-09:52:25.918129  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:54712 -> 15.164.81.167:443
+05/30/2020-09:52:26.463030  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:44338 -> 54.180.75.25:443
+05/30/2020-09:52:44.871698  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:54720 -> 15.164.81.167:443
+05/30/2020-09:53:09.138815  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:54724 -> 15.164.81.167:443
+05/30/2020-09:53:35.559898  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:40254 -> 52.78.231.108:443
+05/30/2020-09:53:47.469862  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:40258 -> 52.78.231.108:443
+05/30/2020-09:54:00.688754  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:40264 -> 52.78.231.108:443
+05/30/2020-09:54:00.688959  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:40266 -> 52.78.231.108:443
+05/30/2020-09:54:01.274012  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38762 -> 13.209.163.61:443
+05/30/2020-09:59:48.413041  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38186 -> 175.213.35.39:80
+05/30/2020-09:59:48.599651  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38188 -> 175.213.35.39:80
+05/30/2020-09:59:48.781263  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38186 -> 175.213.35.39:80
+05/30/2020-09:59:49.391082  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38186 -> 175.213.35.39:80
+05/30/2020-09:59:57.790545  [**] [1:10002:1] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51104 -> 125.60.43.187:80
+05/30/2020-10:00:05.079156  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51066 -> 27.101.208.161:80
+05/30/2020-10:00:05.111383  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51062 -> 27.101.208.161:80
+05/30/2020-10:00:06.336713  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51062 -> 27.101.208.161:80
+05/30/2020-10:00:06.469427  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51062 -> 27.101.208.161:80
+05/30/2020-10:00:06.512077  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51062 -> 27.101.208.161:80
+05/30/2020-10:00:06.553495  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51072 -> 27.101.208.161:80
+05/30/2020-10:00:06.560828  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51070 -> 27.101.208.161:80
+05/30/2020-10:00:06.579294  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51074 -> 27.101.208.161:80
+05/30/2020-10:00:06.591468  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51068 -> 27.101.208.161:80
+05/30/2020-10:00:06.860796  [**] [1:10003:1] bai.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:51074 -> 27.101.208.161:80
+05/30/2020-10:00:13.056883  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48696 -> 116.67.81.21:80
+05/30/2020-10:00:13.077972  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48694 -> 116.67.81.21:80
+05/30/2020-10:00:13.431156  [**] [1:10004:1] spo.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48694 -> 116.67.81.21:80
+05/30/2020-10:00:21.997027  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35584 -> 152.99.142.31:80
+05/30/2020-10:00:22.073836  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.146644  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.146644  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.149108  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:22.149108  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:22.150523  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35592 -> 152.99.142.31:80
+05/30/2020-10:00:22.150523  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35592 -> 152.99.142.31:80
+05/30/2020-10:00:22.151616  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.151616  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.151736  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.151736  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.155382  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.155382  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.173371  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35592 -> 152.99.142.31:80
+05/30/2020-10:00:22.180103  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.180103  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.180391  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.180391  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.180644  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:22.180644  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:22.181277  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.181277  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.280024  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.280024  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.286136  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:22.286136  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:22.295424  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.295424  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.296264  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.296264  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.335054  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35592 -> 152.99.142.31:80
+05/30/2020-10:00:22.335054  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35592 -> 152.99.142.31:80
+05/30/2020-10:00:22.335124  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.335124  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.340769  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.340769  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.454201  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.454201  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.504518  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.504518  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35588 -> 152.99.142.31:80
+05/30/2020-10:00:22.549237  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.549237  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.572753  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35592 -> 152.99.142.31:80
+05/30/2020-10:00:22.572753  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35592 -> 152.99.142.31:80
+05/30/2020-10:00:22.580869  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.580869  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.591949  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.591949  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.637626  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.637626  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35594 -> 152.99.142.31:80
+05/30/2020-10:00:22.650493  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.650493  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.660836  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.660836  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35596 -> 152.99.142.31:80
+05/30/2020-10:00:22.710436  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.0.103:35598 -> 152.99.142.31:80
+05/30/2020-10:00:22.853936  [**] [1:2029754:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M2 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:22.853936  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:23.404980  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.142.31:80 -> 192.168.0.103:35596
+05/30/2020-10:00:24.164789  [**] [1:10005:1] wonju.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:35590 -> 152.99.142.31:80
+05/30/2020-10:00:34.506408  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39318 -> 115.84.166.115:80
+05/30/2020-10:00:34.540754  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39320 -> 115.84.166.115:80
+05/30/2020-10:00:34.570145  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39326 -> 115.84.166.115:80
+05/30/2020-10:00:34.572616  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39324 -> 115.84.166.115:80
+05/30/2020-10:00:34.580568  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39328 -> 115.84.166.115:80
+05/30/2020-10:00:34.580753  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39320 -> 115.84.166.115:80
+05/30/2020-10:00:34.591290  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39330 -> 115.84.166.115:80
+05/30/2020-10:00:34.593362  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39318 -> 115.84.166.115:80
+05/30/2020-10:00:35.135535  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:34502 -> 115.84.164.13:80
+05/30/2020-10:00:35.183955  [**] [1:10006:1] seoul.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:44104 -> 115.84.164.39:80
+05/30/2020-10:01:57.781091  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42722 -> 210.103.81.224:80
+05/30/2020-10:01:57.843147  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42726 -> 210.103.81.224:80
+05/30/2020-10:01:57.880344  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42726 -> 210.103.81.224:80
+05/30/2020-10:01:57.899704  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42726 -> 210.103.81.224:80
+05/30/2020-10:01:57.924327  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42728 -> 210.103.81.224:80
+05/30/2020-10:01:57.948567  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42728 -> 210.103.81.224:80
+05/30/2020-10:01:57.971778  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42728 -> 210.103.81.224:80
+05/30/2020-10:01:57.984087  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42726 -> 210.103.81.224:80
+05/30/2020-10:01:58.001493  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42730 -> 210.103.81.224:80
+05/30/2020-10:01:58.006191  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42728 -> 210.103.81.224:80
+05/30/2020-10:01:58.011246  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42726 -> 210.103.81.224:80
+05/30/2020-10:01:58.042479  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42726 -> 210.103.81.224:80
+05/30/2020-10:01:58.078321  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42732 -> 210.103.81.224:80
+05/30/2020-10:01:58.081653  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42726 -> 210.103.81.224:80
+05/30/2020-10:01:58.462900  [**] [1:10008:1] busan.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:42732 -> 210.103.81.224:80
+05/30/2020-10:02:11.559588  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:43242 -> 220.95.221.71:80
+05/30/2020-10:02:11.581494  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:43242 -> 220.95.221.71:80
+05/30/2020-10:02:11.634960  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39276 -> 180.182.62.82:80
+05/30/2020-10:02:11.635025  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39804 -> 14.34.11.237:80
+05/30/2020-10:02:11.640793  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39290 -> 180.182.62.82:80
+05/30/2020-10:02:11.647516  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39276 -> 180.182.62.82:80
+05/30/2020-10:02:11.648564  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39292 -> 180.182.62.82:80
+05/30/2020-10:02:11.653861  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39290 -> 180.182.62.82:80
+05/30/2020-10:02:11.668464  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:53776 -> 27.102.104.216:80
+05/30/2020-10:02:11.669502  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39290 -> 180.182.62.82:80
+05/30/2020-10:02:11.670811  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:54164 -> 183.110.0.8:80
+05/30/2020-10:02:11.672099  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39276 -> 180.182.62.82:80
+05/30/2020-10:02:11.672445  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39294 -> 180.182.62.82:80
+05/30/2020-10:02:11.672292  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39292 -> 180.182.62.82:80
+05/30/2020-10:02:11.683288  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:54176 -> 183.110.0.8:80
+05/30/2020-10:02:11.695512  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39290 -> 180.182.62.82:80
+05/30/2020-10:02:11.748353  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39290 -> 180.182.62.82:80
+05/30/2020-10:02:11.821885  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:34638 -> 172.217.26.2:80
+05/30/2020-10:02:12.203508  [**] [1:2029622:1] ET POLICY External IP Lookup (ipify .org) [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.0.103:58086 -> 174.129.214.20:80
+05/30/2020-10:02:12.203508  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58086 -> 174.129.214.20:80
+05/30/2020-10:02:12.217205  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:53776 -> 27.102.104.216:80
+05/30/2020-10:02:12.222111  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:53798 -> 27.102.104.216:80
+05/30/2020-10:02:12.223460  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:53776 -> 27.102.104.216:80
+05/30/2020-10:02:12.271478  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:56808 -> 52.85.193.188:80
+05/30/2020-10:02:12.274948  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39290 -> 180.182.62.82:80
+05/30/2020-10:02:12.283989  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39290 -> 180.182.62.82:80
+05/30/2020-10:02:12.284071  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:53446 -> 1.234.43.181:80
+05/30/2020-10:02:12.286825  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39294 -> 180.182.62.82:80
+05/30/2020-10:02:12.293898  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:37844 -> 211.39.128.204:80
+05/30/2020-10:02:12.297277  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:45746 -> 27.102.104.210:80
+05/30/2020-10:02:12.304371  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:45774 -> 27.102.104.210:80
+05/30/2020-10:02:12.310420  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:45778 -> 27.102.104.210:80
+05/30/2020-10:02:12.311200  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:45776 -> 27.102.104.210:80
+05/30/2020-10:02:12.539011  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:56808 -> 52.85.193.188:80
+05/30/2020-10:02:12.542660  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48402 -> 58.229.127.105:80
+05/30/2020-10:02:12.588942  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:37844 -> 211.39.128.204:80
+05/30/2020-10:02:12.818944  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:56808 -> 52.85.193.188:80
+05/30/2020-10:02:12.927962  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:56808 -> 52.85.193.188:80
+05/30/2020-10:02:12.946361  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:56808 -> 52.85.193.188:80
+05/30/2020-10:02:12.978798  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41124 -> 220.95.221.53:80
+05/30/2020-10:02:13.296652  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39294 -> 180.182.62.82:80
+05/30/2020-10:02:13.330089  [**] [1:10010:1] sa.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:37844 -> 211.39.128.204:80
+05/30/2020-10:03:13.217646  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58202 -> 39.115.2.228:443
+05/30/2020-10:03:13.240597  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58204 -> 39.115.2.228:443
+05/30/2020-10:03:13.276343  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58206 -> 39.115.2.228:443
+05/30/2020-10:03:13.384293  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58210 -> 39.115.2.228:443
+05/30/2020-10:03:13.431968  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58212 -> 39.115.2.228:443
+05/30/2020-10:03:13.432220  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58214 -> 39.115.2.228:443
+05/30/2020-10:03:13.434706  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58216 -> 39.115.2.228:443
+05/30/2020-10:03:13.436090  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58218 -> 39.115.2.228:443
+05/30/2020-10:03:13.436400  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58220 -> 39.115.2.228:443
+05/30/2020-10:03:13.971157  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36594 -> 39.115.2.229:443
+05/30/2020-10:03:13.971349  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36592 -> 39.115.2.229:443
+05/30/2020-10:03:13.974141  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36598 -> 39.115.2.229:443
+05/30/2020-10:03:13.976379  [**] [1:10011:1] pubg.game.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36596 -> 39.115.2.229:443
+05/30/2020-10:03:14.151753  [**] [1:10020:1] www.youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55604 -> 172.217.25.110:443
+05/30/2020-10:03:24.601755  [**] [1:10012:1] www.nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:36392 -> 15.164.57.128:443
+05/30/2020-10:03:37.516669  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47944 -> 27.101.137.129:443
+05/30/2020-10:03:37.794266  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47948 -> 27.101.137.129:443
+05/30/2020-10:03:37.794468  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47946 -> 27.101.137.129:443
+05/30/2020-10:03:37.794633  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47954 -> 27.101.137.129:443
+05/30/2020-10:03:37.795600  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47952 -> 27.101.137.129:443
+05/30/2020-10:03:37.800058  [**] [1:10013:1] www.gg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47950 -> 27.101.137.129:443
+05/30/2020-10:03:54.083247  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58880 -> 210.125.239.51:443
+05/30/2020-10:03:54.083352  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58878 -> 210.125.239.51:443
+05/30/2020-10:03:54.664973  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58884 -> 210.125.239.51:443
+05/30/2020-10:03:54.666451  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58882 -> 210.125.239.51:443
+05/30/2020-10:03:54.667499  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58886 -> 210.125.239.51:443
+05/30/2020-10:03:54.669838  [**] [1:10014:1] www.joongbu.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58888 -> 210.125.239.51:443
+05/30/2020-10:04:01.305700  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55914 -> 104.74.209.7:443
+05/30/2020-10:04:02.983441  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55922 -> 104.74.209.7:443
+05/30/2020-10:04:02.983625  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55920 -> 104.74.209.7:443
+05/30/2020-10:04:02.989521  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55924 -> 104.74.209.7:443
+05/30/2020-10:04:02.993557  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55928 -> 104.74.209.7:443
+05/30/2020-10:04:03.512203  [**] [1:10015:1] www.hyundai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:55930 -> 104.74.209.7:443
+05/30/2020-10:04:12.095341  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:40602 -> 52.78.231.108:443
+05/30/2020-10:04:12.096900  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:40600 -> 52.78.231.108:443
+05/30/2020-10:04:12.633074  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38212 -> 185.199.108.153:443
+05/30/2020-10:04:12.763675  [**] [1:10016:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39096 -> 13.209.163.61:443
+05/30/2020-10:04:14.297836  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49068 -> 152.99.136.99:80
+05/30/2020-10:04:14.297922  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49068
+05/30/2020-10:04:14.400576  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49074 -> 152.99.136.99:80
+05/30/2020-10:04:14.400668  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49074
+05/30/2020-10:04:14.491577  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:49076 -> 152.99.136.99:80
+05/30/2020-10:04:14.491577  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49076 -> 152.99.136.99:80
+05/30/2020-10:04:14.491663  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49076
+05/30/2020-10:04:14.503372  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:34972 -> 152.99.136.233:80
+05/30/2020-10:04:14.503461  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.233:80 -> 192.168.0.103:34972
+05/30/2020-10:04:14.562914  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:49080 -> 152.99.136.99:80
+05/30/2020-10:04:14.562914  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49080 -> 152.99.136.99:80
+05/30/2020-10:04:14.562982  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49080
+05/30/2020-10:04:14.616623  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:49084 -> 152.99.136.99:80
+05/30/2020-10:04:14.616623  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49084 -> 152.99.136.99:80
+05/30/2020-10:04:14.616716  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49084
+05/30/2020-10:04:14.617151  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:49082 -> 152.99.136.99:80
+05/30/2020-10:04:14.617151  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49082 -> 152.99.136.99:80
+05/30/2020-10:04:14.617193  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49082
+05/30/2020-10:04:14.950570  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:49088 -> 152.99.136.99:80
+05/30/2020-10:04:14.950570  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49088 -> 152.99.136.99:80
+05/30/2020-10:04:14.950659  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49088
+05/30/2020-10:04:15.126199  [**] [1:2029753:2] ET HUNTING Suspicious GET Request with Possible COVID-19 URI M1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.0.103:49090 -> 152.99.136.99:80
+05/30/2020-10:04:15.126199  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49090 -> 152.99.136.99:80
+05/30/2020-10:04:15.126270  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49090
+05/30/2020-10:04:15.248110  [**] [1:10009:1] yeosu.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49092 -> 152.99.136.99:80
+05/30/2020-10:04:15.248236  [**] [1:2221021:1] SURICATA HTTP response header invalid [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 152.99.136.99:80 -> 192.168.0.103:49092
+05/30/2020-10:04:19.947582  [**] [1:10017:1] www.naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:45704 -> 210.89.164.90:443
+05/30/2020-10:04:21.168867  [**] [1:10017:1] www.naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58384 -> 210.89.168.139:443
+05/30/2020-10:04:31.149603  [**] [1:10018:1] papago.naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:33716 -> 210.89.168.35:443
+05/30/2020-10:04:31.900585  [**] [1:10018:1] papago.naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:33720 -> 210.89.168.35:443
+05/30/2020-10:04:40.353557  [**] [1:10019:1] www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:47958 -> 203.133.167.81:443
+05/30/2020-10:04:41.407412  [**] [1:10019:1] www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48034 -> 203.133.167.81:443
+05/30/2020-10:04:48.312617  [**] [1:10019:1] www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48054 -> 203.133.167.81:443
+05/30/2020-10:04:48.312728  [**] [1:10019:1] www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48056 -> 203.133.167.81:443
+05/30/2020-10:04:50.364386  [**] [1:10019:1] www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:48058 -> 203.133.167.81:443
+05/30/2020-10:10:23.547516  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:23.602405  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:23.642388  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:23.660341  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:23.660909  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:23.670913  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:23.671052  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:23.683836  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:23.683774  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:34494 -> 203.217.239.16:80
+05/30/2020-10:10:23.691735  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:23.698912  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:23.715471  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:23.722031  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:23.723198  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:23.740428  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:23.773213  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:23.777400  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
+05/30/2020-10:10:23.793468  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:23.849800  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:23.898664  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:23.950429  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:23.962267  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:23.972340  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:23.992552  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
+05/30/2020-10:10:24.029418  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:24.035838  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.067315  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:24.069112  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.073667  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:24.076889  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.093507  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.093760  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:24.116484  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:24.134024  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.147228  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:24.176912  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.196158  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:24.200789  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.239432  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:24.273574  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41324 -> 182.162.61.177:80
+05/30/2020-10:10:24.278580  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:49740 -> 203.217.227.141:80
+05/30/2020-10:10:24.294108  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.323965  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.329118  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:24.331259  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:24.331376  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.335031  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:24.347011  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.352568  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
+05/30/2020-10:10:24.356192  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58324 -> 211.231.100.117:80
+05/30/2020-10:10:24.361377  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:24.379927  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:24.382299  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.408225  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:24.422352  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
+05/30/2020-10:10:24.437347  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.439387  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41324 -> 182.162.61.177:80
+05/30/2020-10:10:24.451625  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:24.465203  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:58324 -> 211.231.100.117:80
+05/30/2020-10:10:24.519108  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41324 -> 182.162.61.177:80
+05/30/2020-10:10:24.528716  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.530595  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
+05/30/2020-10:10:24.540201  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41328 -> 182.162.61.177:80
+05/30/2020-10:10:24.565820  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:24.652055  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
+05/30/2020-10:10:24.672537  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57550 -> 27.0.236.166:80
+05/30/2020-10:10:24.678748  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38034 -> 210.100.168.51:80
+05/30/2020-10:10:24.681300  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57552 -> 27.0.236.166:80
+05/30/2020-10:10:24.684630  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57564 -> 27.0.236.166:80
+05/30/2020-10:10:24.685068  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57554 -> 27.0.236.166:80
+05/30/2020-10:10:24.695982  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41368 -> 203.133.166.18:80
+05/30/2020-10:10:24.696373  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57562 -> 27.0.236.166:80
+05/30/2020-10:10:24.699610  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41370 -> 203.133.166.18:80
+05/30/2020-10:10:24.703187  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41372 -> 203.133.166.18:80
+05/30/2020-10:10:24.706388  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39864 -> 27.0.237.155:80
+05/30/2020-10:10:24.711354  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:24.711355  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39866 -> 27.0.237.155:80
+05/30/2020-10:10:24.721402  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.745319  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:24.775139  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38034 -> 210.100.168.51:80
+05/30/2020-10:10:24.829324  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:24.835839  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.844722  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.845565  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57550 -> 27.0.236.166:80
+05/30/2020-10:10:24.852434  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38012 -> 210.100.168.51:80
+05/30/2020-10:10:24.855208  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38034 -> 210.100.168.51:80
+05/30/2020-10:10:24.855936  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38056 -> 210.100.168.51:80
+05/30/2020-10:10:24.862032  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57552 -> 27.0.236.166:80
+05/30/2020-10:10:24.873789  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57564 -> 27.0.236.166:80
+05/30/2020-10:10:24.896076  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41368 -> 203.133.166.18:80
+05/30/2020-10:10:24.901368  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41370 -> 203.133.166.18:80
+05/30/2020-10:10:24.911128  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57554 -> 27.0.236.166:80
+05/30/2020-10:10:24.926117  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41372 -> 203.133.166.18:80
+05/30/2020-10:10:24.931996  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39864 -> 27.0.237.155:80
+05/30/2020-10:10:24.936380  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
+05/30/2020-10:10:24.945247  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:24.946236  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:24.953514  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41384 -> 203.133.166.18:80
+05/30/2020-10:10:24.972262  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57562 -> 27.0.236.166:80
+05/30/2020-10:10:25.027536  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57580 -> 27.0.236.166:80
+05/30/2020-10:10:25.050607  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:25.050875  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39866 -> 27.0.237.155:80
+05/30/2020-10:10:25.062858  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57552 -> 27.0.236.166:80
+05/30/2020-10:10:25.098155  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:25.103636  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41372 -> 203.133.166.18:80
+05/30/2020-10:10:25.110376  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41370 -> 203.133.166.18:80
+05/30/2020-10:10:25.121973  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57554 -> 27.0.236.166:80
+05/30/2020-10:10:25.142242  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57564 -> 27.0.236.166:80
+05/30/2020-10:10:25.157255  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:39864 -> 27.0.237.155:80
+05/30/2020-10:10:25.167030  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:25.170405  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:57550 -> 27.0.236.166:80
+05/30/2020-10:10:25.228768  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41370 -> 203.133.166.18:80
+05/30/2020-10:10:25.239404  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41328 -> 182.162.61.177:80
+05/30/2020-10:10:25.242157  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41324 -> 182.162.61.177:80
+05/30/2020-10:10:25.259519  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:25.259782  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:41330 -> 182.162.61.177:80
+05/30/2020-10:10:25.269395  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:25.293049  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:25.312665  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:25.316750  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38020 -> 210.100.168.51:80
+05/30/2020-10:10:25.343854  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:25.384112  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:25.419127  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38010 -> 210.100.168.51:80
+05/30/2020-10:10:25.419335  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:25.431503  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38056 -> 210.100.168.51:80
+05/30/2020-10:10:25.443716  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:25.457791  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38018 -> 210.100.168.51:80
+05/30/2020-10:10:25.468681  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59732 -> 211.231.108.60:80
+05/30/2020-10:10:25.471748  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59738 -> 211.231.108.60:80
+05/30/2020-10:10:25.476739  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59762 -> 211.231.108.60:80
+05/30/2020-10:10:25.481170  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59746 -> 211.231.108.60:80
+05/30/2020-10:10:25.489883  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59760 -> 211.231.108.60:80
+05/30/2020-10:10:25.490411  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59742 -> 211.231.108.60:80
+05/30/2020-10:10:25.525121  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59770 -> 211.231.108.60:80
+05/30/2020-10:10:25.529031  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59768 -> 211.231.108.60:80
+05/30/2020-10:10:25.531970  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59748 -> 211.231.108.60:80
+05/30/2020-10:10:25.535830  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59744 -> 211.231.108.60:80
+05/30/2020-10:10:25.539259  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59758 -> 211.231.108.60:80
+05/30/2020-10:10:25.543044  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59764 -> 211.231.108.60:80
+05/30/2020-10:10:25.543671  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59734 -> 211.231.108.60:80
+05/30/2020-10:10:25.549391  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59756 -> 211.231.108.60:80
+05/30/2020-10:10:25.549742  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59754 -> 211.231.108.60:80
+05/30/2020-10:10:25.554527  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59766 -> 211.231.108.60:80
+05/30/2020-10:10:25.556195  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59750 -> 211.231.108.60:80
+05/30/2020-10:10:25.562588  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59772 -> 211.231.108.60:80
+05/30/2020-10:10:25.562771  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59736 -> 211.231.108.60:80
+05/30/2020-10:10:25.565275  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59774 -> 211.231.108.60:80
+05/30/2020-10:10:25.572239  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59752 -> 211.231.108.60:80
+05/30/2020-10:10:25.576061  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59740 -> 211.231.108.60:80
+05/30/2020-10:10:25.633652  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59738 -> 211.231.108.60:80
+05/30/2020-10:10:25.657219  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59746 -> 211.231.108.60:80
+05/30/2020-10:10:25.661299  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59748 -> 211.231.108.60:80
+05/30/2020-10:10:25.666882  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59742 -> 211.231.108.60:80
+05/30/2020-10:10:25.669037  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59744 -> 211.231.108.60:80
+05/30/2020-10:10:25.676275  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59734 -> 211.231.108.60:80
+05/30/2020-10:10:25.676739  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59754 -> 211.231.108.60:80
+05/30/2020-10:10:25.684039  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:59738 -> 211.231.108.60:80
+05/30/2020-10:10:25.714287  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38016 -> 210.100.168.51:80
+05/30/2020-10:10:26.961122  [**] [1:10007:1] www.spatic.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.103:38014 -> 210.100.168.51:80
